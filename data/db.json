@@ -1,0 +1,219 @@
+{
+  "users": [
+    {
+      "id": "user_admin_master",
+      "name": "Tanvirul Hoque",
+      "phone": "01816769679",
+      "role": "admin",
+      "status": "approved",
+      "passwordHash": "e1163581b63ec004b756fa5df659ae9bdd41bea35c24ca4af5658ad93bdba2a3fcc284d16ffd57c8aaa674a5a9e49c31445b5309cd91e440ee9be68f044f3641",
+      "passwordSalt": "280be7f59a19e7b8fa70c09393337369",
+      "createdAt": 1792040040955,
+      "approvedAt": 1792040040955,
+      "lastLoginAt": 1792040046672
+    }
+  ],
+  "tokens": {
+    "tok_user_admin_master_d5a60f321f2cd607251ee7cbdfac5d00f743353895287158": "user_admin_master"
+  },
+  "financeData": {
+    "user_admin_master": {
+      "userId": "user_admin_master",
+      "transactions": [],
+      "wallets": [
+        {
+          "id": "cash",
+          "nameBn": "ক্যাশ টাকা",
+          "nameEn": "Cash",
+          "balance": 0,
+          "iconName": "Banknote",
+          "color": "emerald"
+        },
+        {
+          "id": "bkash",
+          "nameBn": "বিকাশ (bKash)",
+          "nameEn": "bKash",
+          "balance": 0,
+          "iconName": "Smartphone",
+          "color": "pink"
+        },
+        {
+          "id": "nagad",
+          "nameBn": "নগদ (Nagad)",
+          "nameEn": "Nagad",
+          "balance": 0,
+          "iconName": "SmartphoneNfc",
+          "color": "amber"
+        },
+        {
+          "id": "bank",
+          "nameBn": "ব্যাংক একাউন্ট",
+          "nameEn": "Bank Account",
+          "balance": 0,
+          "iconName": "Landmark",
+          "color": "blue"
+        },
+        {
+          "id": "rocket",
+          "nameBn": "রকেট / অন্যান্য",
+          "nameEn": "Rocket / Other",
+          "balance": 0,
+          "iconName": "Wallet",
+          "color": "purple"
+        }
+      ],
+      "categories": [
+        {
+          "id": "cat_bazaar",
+          "nameBn": "কাঁচাবাজার ও সদাই",
+          "nameEn": "Groceries & Bazaar",
+          "type": "expense",
+          "iconName": "ShoppingBag",
+          "color": "emerald"
+        },
+        {
+          "id": "cat_food",
+          "nameBn": "খাবার ও রেস্তোরাঁ",
+          "nameEn": "Food & Dining",
+          "type": "expense",
+          "iconName": "Utensils",
+          "color": "amber"
+        },
+        {
+          "id": "cat_rent",
+          "nameBn": "বাসা ভাড়া",
+          "nameEn": "House Rent",
+          "type": "expense",
+          "iconName": "Home",
+          "color": "rose"
+        },
+        {
+          "id": "cat_bills",
+          "nameBn": "বিল (বিদ্যুৎ, গ্যাস, নেট)",
+          "nameEn": "Bills & Utilities",
+          "type": "expense",
+          "iconName": "Zap",
+          "color": "cyan"
+        },
+        {
+          "id": "cat_transport",
+          "nameBn": "যাতায়াত ও ভাড়া",
+          "nameEn": "Transport & Commute",
+          "type": "expense",
+          "iconName": "Car",
+          "color": "indigo"
+        },
+        {
+          "id": "cat_recharge",
+          "nameBn": "মোবাইল রিচার্জ",
+          "nameEn": "Mobile Recharge",
+          "type": "expense",
+          "iconName": "PhoneCall",
+          "color": "teal"
+        },
+        {
+          "id": "cat_health",
+          "nameBn": "চিকিৎসা ও ওষুধ",
+          "nameEn": "Medical & Healthcare",
+          "type": "expense",
+          "iconName": "HeartPulse",
+          "color": "red"
+        },
+        {
+          "id": "cat_shopping",
+          "nameBn": "কেনাকাটা ও পোশাক",
+          "nameEn": "Shopping & Clothes",
+          "type": "expense",
+          "iconName": "Shirt",
+          "color": "violet"
+        },
+        {
+          "id": "cat_education",
+          "nameBn": "পড়াশোনা ও সন্তানের খরচ",
+          "nameEn": "Education & Fees",
+          "type": "expense",
+          "iconName": "GraduationCap",
+          "color": "blue"
+        },
+        {
+          "id": "cat_charity",
+          "nameBn": "দান, যাকাত ও সদকা",
+          "nameEn": "Charity & Donation",
+          "type": "expense",
+          "iconName": "Gift",
+          "color": "teal"
+        },
+        {
+          "id": "cat_entertainment",
+          "nameBn": "ঘোরাঘুরি ও বিনোদন",
+          "nameEn": "Outing & Fun",
+          "type": "expense",
+          "iconName": "Camera",
+          "color": "orange"
+        },
+        {
+          "id": "cat_other_exp",
+          "nameBn": "অন্যান্য খরচ",
+          "nameEn": "Other Expense",
+          "type": "expense",
+          "iconName": "MoreHorizontal",
+          "color": "slate"
+        },
+        {
+          "id": "cat_salary",
+          "nameBn": "মাসিক বেতন",
+          "nameEn": "Monthly Salary",
+          "type": "income",
+          "iconName": "Briefcase",
+          "color": "emerald"
+        },
+        {
+          "id": "cat_business",
+          "nameBn": "ব্যবসার লাভ / আয়",
+          "nameEn": "Business Profit",
+          "type": "income",
+          "iconName": "TrendingUp",
+          "color": "blue"
+        },
+        {
+          "id": "cat_freelance",
+          "nameBn": "ফ্রিল্যান্সিং",
+          "nameEn": "Freelance & Projects",
+          "type": "income",
+          "iconName": "Laptop",
+          "color": "purple"
+        },
+        {
+          "id": "cat_rent_income",
+          "nameBn": "ভাড়া প্রাপ্তি",
+          "nameEn": "Rental Income",
+          "type": "income",
+          "iconName": "Building",
+          "color": "cyan"
+        },
+        {
+          "id": "cat_gift_inc",
+          "nameBn": "উপহার / বকশিশ",
+          "nameEn": "Gift / Reward",
+          "type": "income",
+          "iconName": "Sparkles",
+          "color": "amber"
+        },
+        {
+          "id": "cat_other_inc",
+          "nameBn": "অন্যান্য আয়",
+          "nameEn": "Other Income",
+          "type": "income",
+          "iconName": "Coins",
+          "color": "emerald"
+        }
+      ],
+      "budgets": {},
+      "settings": {
+        "language": "bn",
+        "numberFormat": "bn"
+      },
+      "updatedAt": 1792040036161
+    }
+  }
+}

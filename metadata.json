@@ -1,0 +1,8 @@
+{
+  "name": "আয় ব্যয় হিসাব - Ay Bey Hisab",
+  "description": "দৈনিক আয়-ব্যয়, বাজেট ও দেনা-পাওনার হিসাব খাতা। মোবাইল ও ট্যাবলেটে ব্যবহারের জন্য বিশেষ উপযোগী।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
